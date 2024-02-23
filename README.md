@@ -25,3 +25,37 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# Collaboration Guide for sa-soft-clean Project
+
+Welcome to the `sa-soft-clean` project! This guide will help you set up your development environment, collaborate efficiently, and handle merge conflicts.
+
+## Setting Up Your Environment
+
+1. **Clone the Repository**
+
+   Start by cloning the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/mbjallow6/sa-soft-clean.git
+   cd sa-soft-clean
+
+2. **Install Dependencies**
+
+    Inside the project directory, install the required dependencies:
+   
+   ```bash
+    npm install
+
+3. **Working on Features**
+    Create a Feature Branch
+        Always create a new branch for each feature or bug fix:
+    
+    ```bash
+    git checkout -b feature/your-feature-name
+
+    Please replace `your-feature-name` with a short descriptive name for your feature.
+
+
+
